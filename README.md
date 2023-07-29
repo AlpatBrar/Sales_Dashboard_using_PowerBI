@@ -6,7 +6,7 @@ The dashboard pulls data from various sources, such as CRM systems, sales databa
 
 Through interactive features like filters, slicers, and drill-down options, users can explore data at granular levels, enabling them to gain deeper insights into customer behavior, product performance, and sales trends. The dashboard also incorporates time-based analysis to identify seasonal patterns, track sales performance over time, and make informed predictions
 
-Skills required for this project:- Excel, MYSQL, Data Loading, Data Cleaning, Data Analysis, Data Visualization.
+Skills required for this project:- Microsoft Power BI,DEX Query,Creativity and Innovation,Statitical Data Analysis.
 
 Connect with me on these platforms:-
 
